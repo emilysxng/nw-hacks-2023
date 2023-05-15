@@ -13,3 +13,5 @@ How it works:
 3. Take your medication -- you’ll be alerted when to take it again!
 
 Also see website: https://github.com/tczg/PigeonPill
+
+**Contributors:** Tony Gu (https://github.com/tczg), Amir Tajaddoditalab (https://github.com/Mighty199), Gursharan Singh 
