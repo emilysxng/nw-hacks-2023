@@ -1,4 +1,6 @@
 # nw-hacks-pill-dispenser
+(Not completed source code, still waiting on teammates to upload the rest)
+
 Project submission for nwHacks 2023. Smart pill dispenser that reminds you to take medication, dispenses pills, and keeps track of expiry dates and temperature & humidity conditions. 
 
 - Provides an auditory reminder to take medication/supplements at scheduled intervals
